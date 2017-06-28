@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FFmpegDemo</string>
+    <string name="get_thumb">Get Thumb</string>
+</resources>
